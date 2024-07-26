@@ -1,0 +1,12 @@
+tapi
+uvicorn
+torch
+transformers
+pandas
+peft
+huggingface_hub
+tqdm
+pytesseract
+pdf2image
+sentence-transformers
+faiss-cpu
